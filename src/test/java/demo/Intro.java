@@ -2,5 +2,8 @@ package demo;
 
 public class Intro {
 
-  System.out.println("content added from remote repo");
+    public static void main (String args []){
+
+       System.out.println("content added from remote repo");
+    }
 }
